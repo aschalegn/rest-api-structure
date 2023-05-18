@@ -1,0 +1,12 @@
+a todo app
+
+entities:
+TODO (title, description, isCompleted , owner)
+USERS (firstName, lastName, email, password, isPremium)
+
+1. Folders structure -> done.
+2. req   => body VS params VS query. 
+3. Error handling.
+4. Middleware.
+5. DB Connection -> done 
+6. Async.
